@@ -18,3 +18,5 @@ WEEK 2: CSS GRID + FLEXBOX
 [link to codepen IMD Ticket](https://codepen.io/lisa-esd/pen/jOPmypw)
 
 WEEK 3: ES6
+
+[link to files noteApp](https://github.com/r0423168/2imd-webtech3-portfolio/tree/master/Lab3)
