@@ -1,24 +1,34 @@
 [link naar Portfolio Lisa Deroose](https://github.com/r0423168/2imd-webtech3-portfolio)
 # 2imd-webtech3-portfolio
 
-WEEK 1: GIT
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-[link to website collaboration](https://github.com/wakoodi/2imd-webtech3-lab1.git)
+* WEEK 1: GitIt
+  * [Collaboration assignment](https://github.com/wakoodi/2imd-webtech3-lab1.git)
+  * [Screenshot GitIt assignment](Lab1-git/git-screenshot.png)
 
-[link to screenshot GitIt](Lab1-git/git-screenshot.png)
+* WEEK 2: CSS Grid Layout & Flexbox
+  * [Screenshot flexboxfroggy](Lab2/FlexboxFroggy_Screenshot_Lisa.png)
+  * [Screenshot gridgarden](Lab2/GridGarden_Screenshot_Lisa.png)
+  * [Codepen Grid Layout](https://codepen.io/lisa-esd/pen/eYNvPZJ)
+  * [Codepen IMD Ticket](https://codepen.io/lisa-esd/pen/jOPmypw)
 
-WEEK 2: CSS GRID + FLEXBOX
 
-[link to screenshot flexboxfroggy](Lab2/FlexboxFroggy_Screenshot_Lisa.png)
+* WEEK 3: Advanced JS Part 1
+  * [Codepen noteApp](https://codepen.io/lisa-esd/pen/MWwEEVZ?editors=0011)
 
-[link to screenshot gridgarden](Lab2/GridGarden_Screenshot_Lisa.png)
+* WEEK 4: Create a weather & location based advertisement
+  * [Codepen Weather App](https://codepen.io/lisa-esd/pen/qBdQqaG?editors=0010)
 
-[link to codepen Grid Layout](https://codepen.io/lisa-esd/pen/eYNvPZJ)
+* WEEK 5: NodeJS Basics
 
-[link to codepen IMD Ticket](https://codepen.io/lisa-esd/pen/jOPmypw)
+* WEEK 6:
 
-WEEK 3: ES6
+* WEEK 7:
 
-WEEK 8: MongoDB 
+* WEEK 8: MongoDB 
+  * [link to screenshot MongoDB](https://github.com/r0423168/2imd-webtech3-portfolio/blob/master/Lab12/Lisa_Deroose_MongoDB.png)
 
-[link to screenshot MongoDB](https://github.com/r0423168/2imd-webtech3-portfolio/blob/master/Lab12/Lisa_Deroose_MongoDB.png)
+
+
