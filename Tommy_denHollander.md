@@ -25,6 +25,7 @@
 
 [noteApp](https://codepen.io/Lazy_student/pen/LYVrweE)
 
+<<<<<<< HEAD
 ## Lab 4 
 
 [Weather API](https://github.com/Serat0/2imd-webtech3-portfolio/tree/master/Lab4-APIs)
@@ -32,6 +33,15 @@
 #### Weather API codepen.io Link
 
 [WeatherApi](https://codepen.io/Lazy_student/pen/QWbJLEO)
+=======
+## Lab 4
+
+[API-Repos](https://github.com/Serat0/2imd-webtech3-portfolio/tree/master/Lab4-APIs)
+
+#### Codepen.io Link
+
+[API-App](https://codepen.io/Lazy_student/pen/QWbJLEO)
+>>>>>>> 7e88da5e89962aeb48a4735f9f77779c373750c8
 
 
 ## Lab 12
