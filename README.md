@@ -2,5 +2,3 @@
 
 commit your own portfolio document named `firstname_name.md`
 
-
-
