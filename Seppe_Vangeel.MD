@@ -9,3 +9,6 @@ https://github.com/seppevg/2imd-dev-portfolio
 [LAB 2](https://github.com/seppevg/2imd-dev-portfolio/tree/main/Lab%202%20-%20CSS%20Grid%20%26%20Flexbox)
 
 [LAB 3](https://github.com/seppevg/2imd-dev-portfolio/tree/main/Lab%203%20-%20ES6)
+
+[LAB 4](https://github.com/seppevg/2imd-dev-portfolio/tree/main/Lab%204%20-%20API)
+
