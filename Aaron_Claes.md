@@ -18,3 +18,8 @@ Link to personal portfolio: https://github.com/AaronClaes/2imd-webtechadvanced-p
 
 - [Lab 4 - app prototypes](https://github.com/AaronClaes/2imd-webtechadvanced-portfolio/tree/main/lab4%20-%20app%20prototypes)
 
+### Week 5:
+
+- [Lab 5 - nodejs](https://github.com/AaronClaes/2imd-webtechadvanced-portfolio/tree/main/lab5%20-%20nodejs)
+- [API test on codepen.io](https://codepen.io/aaron-claes/pen/jOVoBNe)
+
