@@ -11,3 +11,6 @@ You want to go to my portfolio repo? [Click here](https://github.com/JakeDarb/2i
 
 ## Lab 3
 [Click here](https://github.com/JakeDarb/2imd-webtechadvanced-portfolio/tree/main/lab3%20-%20ES6) to see my entry for our third assignment.
+
+## Lab 4
+[Click here](https://github.com/JakeDarb/2imd-webtechadvanced-portfolio/tree/main/lab4%20-%20API) to see my entry for our fourth assignment.
