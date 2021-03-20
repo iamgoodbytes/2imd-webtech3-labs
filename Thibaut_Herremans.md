@@ -12,4 +12,4 @@ link naar GridTicket codepen
 https://codepen.io/thibautherremans/pen/KKNeXZg
 
 lab3:
-https://github.com/thibautherremans/2imd-dev-portfolio/tree/main/lab%203%20-%20ES6
+https://codesandbox.io/s/mlt87?file=/app.js
