@@ -14,4 +14,4 @@
 ## Lab 3
 [Click here for lab 3](https://github.com/Jade-Apers/2imd-webtechadvanced-portfolio/tree/lab3-advancedjs/lab3)
 
-[Click here for codesandbox code for the to do app ](https://codesandbox.io/s/to-do-app-lab-3-jade-apers-tyy9v)
+[Click here for codesandbox code for the TO DO app ](https://codesandbox.io/s/to-do-app-lab-3-jade-apers-tyy9v)
