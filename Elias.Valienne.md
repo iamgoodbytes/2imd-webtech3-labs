@@ -10,4 +10,4 @@
 
 [lab4](https://github.com/BlackElias/2imd-dev-portfolio/tree/master/lab4) updated
 
-[lab5](https://github.com/BlackElias/2imd-dev-portfolio/tree/master/lab5) half done, need to stup heroku
+[lab5](https://github.com/BlackElias/2imd-dev-portfolio/tree/master/lab5) half done, need to stup heroku.
