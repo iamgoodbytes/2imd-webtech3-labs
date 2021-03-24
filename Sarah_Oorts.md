@@ -6,4 +6,4 @@
 - [Lab 2 - CSS](https://github.com/SarahOorts/2imd-webtechadvanced-portfolio/tree/main/lab%202)
 - [Lab 3 - ES6](https://github.com/SarahOorts/2imd-webtechadvanced-portfolio/tree/main/lab%203)
 - [Lab 4 - API](https://github.com/SarahOorts/2imd-webtechadvanced-portfolio/tree/main/lab%204)
--[Lab 5 - Nodejs](https://github.com/SarahOorts/2imd-webtechadvanced-portfolio/tree/main/lab%205)
+- [Lab 5 - Nodejs](https://github.com/SarahOorts/2imd-webtechadvanced-portfolio/tree/main/lab%205)
