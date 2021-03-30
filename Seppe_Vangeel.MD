@@ -12,3 +12,4 @@ https://github.com/seppevg/2imd-dev-portfolio
 
 [LAB 4 - API](https://github.com/seppevg/2imd-dev-portfolio/tree/main/Lab%204%20-%20API)
 
+[LAB 5 - NODE](https://github.com/seppevg/2imd-dev-portfolio/tree/main/Lab%205%20-%20NodeAPI)
