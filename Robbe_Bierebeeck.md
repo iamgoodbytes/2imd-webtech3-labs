@@ -5,3 +5,5 @@
 [LINK to lab4](https://github.com/Robbe-coder/2imd-dev-portfolio)
 
 [LINK to lab5](https://github.com/Robbe-coder/2imd-dev-portfolio)
+
+[LINK to lab6](https://github.com/Robbe-coder/2imd-dev-portfolio)
