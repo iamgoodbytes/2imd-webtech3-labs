@@ -16,3 +16,6 @@
 ## Lab 5
 [lab5](https://github.com/NickKoenig96/2imd-webtechadvanced-portfolio/tree/lab5/lab5)
 
+## Lab 6
+[lab6](https://github.com/NickKoenig96/lab6)
+
