@@ -18,3 +18,8 @@
 [lab4](https://github.com/GlennVanLaere/2imd-webtechadvanced-portfolio)
 
 [codesandbox](https://codesandbox.io/s/nice-river-p6t17?file=/app.js)
+
+# lab5 nodejs
+[lab5](https://github.com/GlennVanLaere/lab5-nodejs)
+
+[codepen](https://codepen.io/glenn-van-laere/pen/BapLBEB)
