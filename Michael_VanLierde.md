@@ -12,3 +12,6 @@
 
 ## LAB 3
 [ES6 Notes application](https://github.com/Moophie/2imd-dev-portfolio/tree/master/lab3%20-%20es6)
+
+## LAB 4
+[API-based advertisement](https://github.com/Moophie/2imd-dev-portfolio/tree/master/lab4%20-%20prototype)
