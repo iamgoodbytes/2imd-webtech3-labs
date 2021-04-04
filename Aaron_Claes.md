@@ -23,3 +23,7 @@ Link to personal portfolio: https://github.com/AaronClaes/2imd-webtechadvanced-p
 - [Lab 5 - nodejs](https://github.com/AaronClaes/2imd-webtechadvanced-portfolio/tree/main/lab5%20-%20nodejs)
 - [API test on codepen.io](https://codepen.io/aaron-claes/pen/jOVoBNe)
 
+### Week 6:
+
+- [Lab 6 - web sockets](https://github.com/AaronClaes/lab6-websockets)
+- [Heroku app](https://afternoon-citadel-75816.herokuapp.com/)
