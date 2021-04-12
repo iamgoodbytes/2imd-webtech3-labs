@@ -14,3 +14,7 @@
 
 ## Lab 5
 [Link to my Lab 5 respository](https://github.com/stephanielambrighs/2imd-webtechadvanced-portfolio/tree/main/lab5)
+
+## Lab 6
+- [lab6](https://github.com/stephanielambrighs/Lab6/blob/main/README.md)
+- [Link to Heroku application](https://imd-athletes.herokuapp.com/) 
