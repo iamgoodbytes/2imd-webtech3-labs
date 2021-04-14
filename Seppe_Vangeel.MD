@@ -4,7 +4,7 @@
 
 Follow this [link](https://github.com/seppevg/2imd-dev-portfolio) to my repo
 
-## Link to Labs
+## Link to my Labs
 
 [LAB 1 - Git It](https://github.com/seppevg/2imd-dev-portfolio/tree/main/Lab%201%20-%20Git%20It)
 
