@@ -20,9 +20,9 @@ https://codepen.io/yanelle-van-den-berghe/pen/NWbJaap
 
 # lab 3
 
-https://codesandbox.io/s/lab3-todo-app-forked-luerv?file=/package.json
+https://codesandbox.io/s/lab3-todo-app-forked-luerv?file=/app.js
 
-https://github.com/Yanellevdb/2imd-webtechadvanced-portfolio/tree/main/lab3 
+https://github.com/Yanellevdb/2imd-webtechadvanced-portfolio/tree/main/lab3
 
 # lab 4
 
