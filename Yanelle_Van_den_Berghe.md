@@ -17,3 +17,19 @@ https://codepen.io/yanelle-van-den-berghe/pen/abBMyVL
 # link to thefuture
 
 https://codepen.io/yanelle-van-den-berghe/pen/NWbJaap
+
+# lab 3
+
+https://codesandbox.io/s/lab3-todo-app-forked-luerv?file=/app.js
+
+https://github.com/Yanellevdb/2imd-webtechadvanced-portfolio/tree/main/lab3
+
+# lab 4
+
+https://codesandbox.io/s/lab-4-weather-ad-elpfi?file=/app.js
+
+https://github.com/Yanellevdb/2imd-webtechadvanced-portfolio/tree/main/lab4
+
+# lab 5
+
+https://github.com/Yanellevdb/2imd-webtechadvanced-portfolio/tree/main/lab5 
