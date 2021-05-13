@@ -22,5 +22,5 @@
 [Click here for codesandbox for my ad](https://codesandbox.io/s/app-weather-and-fun-activity-t3j88)
 
 ## Lab 5
-[Click here for lab 5](https://github.com/Jade-Apers/2imd-webtechadvanced-portfolio/tree/main/lab5-nodejs)
-Ik had niet genoeg tijd voor heroku app
+[Click here for lab 5](https://github.com/Jade-Apers/2imd-webtechadvanced-portfolio/tree/main/lab5-node)
+[Codepen](https://codepen.io/jade-apers/pen/LYWNYqQ)
