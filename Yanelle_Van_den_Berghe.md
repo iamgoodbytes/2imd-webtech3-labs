@@ -32,4 +32,6 @@ https://github.com/Yanellevdb/2imd-webtechadvanced-portfolio/tree/main/lab4
 
 # lab 5
 
-https://github.com/Yanellevdb/2imd-webtechadvanced-portfolio/tree/main/lab5 
+https://github.com/Yanellevdb/lab5-secondtrial 
+
+https://codepen.io/yanelle-van-den-berghe/pen/MWpoKzP?editors=1111
